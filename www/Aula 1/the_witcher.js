@@ -1,0 +1,5 @@
+console.log("Uma certa vez um bruxo que esta atras de sua filha.")
+console.log("Ele recebeu a notícia que a Caçada Selvagem estava atras dela.")
+console.log("E no final ele mata o lider da Caçada Selvagem e salva sua filha.")
+console.log("Esse bruxo se chama Geralt de Rivia, o Lobo Branco")
+console.log("Em breve The Witcher 3")
